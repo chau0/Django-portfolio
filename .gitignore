@@ -120,6 +120,8 @@ venv.bak/
 dmypy.json
 #django
 .pyc
-
+#project file
+evn_django
+.vscode
 # Pyre type checker
 .pyre/
