@@ -1,0 +1,25 @@
+射出波形
+
+Amazon Simple Storage Service—Provides scalable storage in the AWS Cloud. For more information, see Amazon S3.
+
+Amazon DynamoDB—Provides managed NoSQL databases. For more information, see Amazon DynamoDB.
+
+Amazon Kinesis—Enables real-time processing of streaming data at a massive scale. For more information, see Amazon Kinesis.
+
+AWS Lambda—Runs your code on virtual servers from Amazon EC2 in response to events. For more information, see AWS Lambda.
+
+python3 -m venv env
+
+pip install Django
+
+django-admin startproject personal_portfolio
+
+python manage.py runserver
+
+ python manage.py startapp hello_world
+ 
+ https://github.com/github/gitignore	
+ 
+ Object Relational Mapper (ORM).
+ 
+ python manage.py makemigrations projects
